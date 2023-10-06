@@ -15,7 +15,7 @@ Feel free to explore and study the solutions. I hope you find them helpful in yo
 
 ## Connect with Me
 
-- Check out my [Profile ](https://example.com](https://leetcode.com/Girish_Raghav/) 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/girish-raghav-m-58492a253/)https://www.linkedin.com/in/girish-raghav-m-58492a253/).
+- Check out my [LeetCode Profile](https://leetcode.com/Girish_Raghav/).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/girish-raghav-m-58492a253/).
 
 Thank you for visiting! Happy coding!
