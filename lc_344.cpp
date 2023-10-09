@@ -1,4 +1,4 @@
-#pragma GCC optimze("O3")
+#pragma GCC optimze('O3')
 class Solution {
 public:
     void reverseString(vector<char>& s) {
