@@ -1,5 +1,8 @@
+<p align="center">
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw3MywZ-biYjlqVU8XPhEHGt&ust=1697905187284000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCNuYSEhYIDFQAAAAAdAAAAABAE)" alt="Material Bread logo">
+</p>
 <div style="text-align:center">
-    ![LeetCode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw3MywZ-biYjlqVU8XPhEHGt&ust=1697905187284000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCNuYSEhYIDFQAAAAAdAAAAABAE)
+    ![LeetCode]()
 </div>
 
 # 🚀 LeetCode Solutions
