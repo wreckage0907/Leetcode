@@ -1,4 +1,5 @@
-# 🚀 LeetCode Solutions
+
+<h1 align="center"># 🚀 LeetCode Solutions</h1>
 
 **Welcome to my LeetCode solutions repository!** 🎉 This treasure trove houses my battle-tested solutions to an array of intriguing LeetCode problems. Brace yourself for a rollercoaster ride through algorithms, data structures, and cunning strategies!
 
